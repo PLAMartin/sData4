@@ -1,0 +1,278 @@
+[
+    {
+        "user_id": 1,
+        "name": "Default",
+        "gender": null,
+        "dob": null,
+        "xp": 0,
+        "start_palette_id": 1,
+        "active_effects": null,
+        "inventory": null,
+        "updated_at": "2023-09-11 13:25:08",
+        "start_palette": {
+            "palette_id": 1,
+            "name": "Beads",
+            "note": "p286, (Found colour palette 8) 2000 Colour Combinations.",
+            "updated_at": "2020-08-15 01:29:28"
+        },
+        "grids": [
+            {
+                "grid_id": 1,
+                "seed_id": 14,
+                "tutorial_id": 2,
+                "palette_id": 1,
+                "name": "Conxy 1S (Tutorial)",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 1,
+                "updated_at": "2021-04-27 21:23:48"
+            }
+        ],
+        "user_palettes": []
+    },
+    {
+        "user_id": 2,
+        "name": "FaithEmber",
+        "gender": "Female",
+        "dob": "1999-12-12",
+        "xp": 0,
+        "start_palette_id": 2,
+        "active_effects": null,
+        "inventory": null,
+        "updated_at": "2023-09-11 13:25:20",
+        "start_palette": {
+            "palette_id": 2,
+            "name": "Stickley",
+            "note": "p314 (Lisa Stickley) 2000 Colour Combinations",
+            "updated_at": "2020-08-15 01:26:18"
+        },
+        "grids": [],
+        "user_palettes": []
+    },
+    {
+        "user_id": 4,
+        "name": "Phil",
+        "gender": "Male",
+        "dob": "1961-10-13",
+        "xp": 0,
+        "start_palette_id": 3,
+        "active_effects": null,
+        "inventory": null,
+        "updated_at": "2023-09-11 13:25:32",
+        "start_palette": {
+            "palette_id": 3,
+            "name": "Found 6",
+            "note": "p282 (Found colour palette 6) 2000 Colour Combinations",
+            "updated_at": "2021-01-02 22:48:48"
+        },
+        "grids": [
+            {
+                "grid_id": 2,
+                "seed_id": 2,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 2S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 3,
+                "seed_id": 3,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 3S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 4,
+                "seed_id": 4,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 4S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 5,
+                "seed_id": 5,
+                "tutorial_id": 2,
+                "palette_id": 1,
+                "name": "Conxy 5S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:37:17"
+            },
+            {
+                "grid_id": 6,
+                "seed_id": 6,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 6S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 7,
+                "seed_id": 7,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 7S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 8,
+                "seed_id": 8,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 8S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 9,
+                "seed_id": 9,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 30S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 10,
+                "seed_id": 10,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 42S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 11,
+                "seed_id": 11,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 44S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 12,
+                "seed_id": 12,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 9S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 13,
+                "seed_id": 13,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Test",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 14,
+                "seed_id": 15,
+                "tutorial_id": 1,
+                "palette_id": 20,
+                "name": "Random8x8",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            }
+        ],
+        "user_palettes": [
+            {
+                "user_id": 4,
+                "palette_id": 1,
+                "updated_at": "2021-01-03 00:59:02"
+            },
+            {
+                "user_id": 4,
+                "palette_id": 3,
+                "updated_at": "2021-01-03 00:59:41"
+            }
+        ]
+    },
+    {
+        "user_id": 5,
+        "name": "Marcia",
+        "gender": "Female",
+        "dob": null,
+        "xp": 0,
+        "start_palette_id": 4,
+        "active_effects": null,
+        "inventory": null,
+        "updated_at": "2023-09-11 13:25:41",
+        "start_palette": {
+            "palette_id": 4,
+            "name": "Manessi",
+            "note": "p294 (Agalis Manessi) 2000 Colour Combinations",
+            "updated_at": "2021-01-03 00:46:48"
+        },
+        "grids": [],
+        "user_palettes": []
+    },
+    {
+        "user_id": 6,
+        "name": "Claudia",
+        "gender": "Female",
+        "dob": null,
+        "xp": 0,
+        "start_palette_id": 23,
+        "active_effects": null,
+        "inventory": null,
+        "updated_at": "2023-09-11 13:25:50",
+        "start_palette": {
+            "palette_id": 23,
+            "name": "Picasso (weeping)",
+            "note": "p41, Picasso, The Weeping Woman, Art Icons, Em Sans.",
+            "updated_at": "2020-08-15 01:29:28"
+        },
+        "grids": [],
+        "user_palettes": []
+    }
+]

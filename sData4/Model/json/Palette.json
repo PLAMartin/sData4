@@ -1,0 +1,2564 @@
+[
+    {
+        "palette_id": 1,
+        "name": "Beads",
+        "note": "p286, (Found colour palette 8) 2000 Colour Combinations.",
+        "updated_at": "2020-08-15 01:29:28",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 6,
+                "palette_id": 1,
+                "colour_id": 1,
+                "note": "White tile fill",
+                "updated_at": "2023-09-18 15:22:30"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 1,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 1,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 14,
+                "palette_id": 1,
+                "colour_id": 34,
+                "note": "Rotate Tile Stroke",
+                "updated_at": "2021-07-23 23:54:25"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Red tile stroke",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 29,
+                "palette_id": 1,
+                "colour_id": 39,
+                "note": "White tile edge",
+                "updated_at": "2023-09-18 15:22:52"
+            }
+        ],
+        "grids": [
+            {
+                "grid_id": 1,
+                "seed_id": 14,
+                "tutorial_id": 2,
+                "palette_id": 1,
+                "name": "Conxy 1S (Tutorial)",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 1,
+                "updated_at": "2021-04-27 21:23:48"
+            },
+            {
+                "grid_id": 2,
+                "seed_id": 2,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 2S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 3,
+                "seed_id": 3,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 3S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 4,
+                "seed_id": 4,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 4S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 5,
+                "seed_id": 5,
+                "tutorial_id": 2,
+                "palette_id": 1,
+                "name": "Conxy 5S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:37:17"
+            },
+            {
+                "grid_id": 6,
+                "seed_id": 6,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 6S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 9,
+                "seed_id": 9,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 30S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 10,
+                "seed_id": 10,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 42S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 11,
+                "seed_id": 11,
+                "tutorial_id": 1,
+                "palette_id": 1,
+                "name": "Conxy 44S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            }
+        ],
+        "series": [
+            {
+                "series_id": 1,
+                "palette_id": 1,
+                "number": 1,
+                "updated_at": "2021-08-31 13:11:24"
+            }
+        ],
+        "user_palettes": [
+            {
+                "user_id": 4,
+                "palette_id": 1,
+                "updated_at": "2021-01-03 00:59:02"
+            }
+        ],
+        "users": [
+            {
+                "user_id": 1,
+                "name": "Default",
+                "gender": null,
+                "dob": null,
+                "xp": 0,
+                "start_palette_id": 1,
+                "active_effects": null,
+                "inventory": null,
+                "updated_at": "2023-09-11 13:25:08"
+            }
+        ]
+    },
+    {
+        "palette_id": 2,
+        "name": "Stickley",
+        "note": "p314 (Lisa Stickley) 2000 Colour Combinations",
+        "updated_at": "2020-08-15 01:26:18",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-16 12:51:28"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 2,
+                "colour_id": 10,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-16 12:53:00"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 2,
+                "colour_id": 11,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 2,
+                "colour_id": 12,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 2,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            },
+            {
+                "part_id": 7,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Black tile fill",
+                "updated_at": "2021-08-16 13:00:00"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 2,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:21:14"
+            },
+            {
+                "part_id": 9,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Arrow tile background",
+                "updated_at": "2021-08-15 23:17:49"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 2,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 2,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 2,
+                "colour_id": 10,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 2,
+                "colour_id": 11,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 2,
+                "colour_id": 41,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 2,
+                "colour_id": 12,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Red tile stroke",
+                "updated_at": "2021-07-04 22:49:49"
+            },
+            {
+                "part_id": 30,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Black tile stroke",
+                "updated_at": "2021-08-16 13:00:00"
+            },
+            {
+                "part_id": 32,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Arrow tile stroke",
+                "updated_at": "2021-08-16 12:34:08"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": [
+            {
+                "user_id": 2,
+                "name": "FaithEmber",
+                "gender": "Female",
+                "dob": "1999-12-12",
+                "xp": 0,
+                "start_palette_id": 2,
+                "active_effects": null,
+                "inventory": null,
+                "updated_at": "2023-09-11 13:25:20"
+            }
+        ]
+    },
+    {
+        "palette_id": 3,
+        "name": "Found 6",
+        "note": "p282 (Found colour palette 6) 2000 Colour Combinations",
+        "updated_at": "2021-01-02 22:48:48",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-16 12:39:07"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Colour 2 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:39:32"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Colour 3 (Green) tile fill",
+                "updated_at": "2021-08-16 12:40:17"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:50:04"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 3,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 16:19:34"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 3,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:43"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 3,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 3,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-11 22:18:27"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 3,
+                "colour_id": 15,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-08-16 12:39:32"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Colour 3 (Green) tile stroke",
+                "updated_at": "2021-08-16 12:40:17"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Colour 4 (Light Blue) tile stroke",
+                "updated_at": "2021-08-16 16:20:02"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 3,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile stroke",
+                "updated_at": "2021-08-16 16:22:09"
+            }
+        ],
+        "grids": [],
+        "series": [
+            {
+                "series_id": 3,
+                "palette_id": 3,
+                "number": 3,
+                "updated_at": "2021-04-06 15:18:02"
+            }
+        ],
+        "user_palettes": [
+            {
+                "user_id": 4,
+                "palette_id": 3,
+                "updated_at": "2021-01-03 00:59:41"
+            }
+        ],
+        "users": [
+            {
+                "user_id": 4,
+                "name": "Phil",
+                "gender": "Male",
+                "dob": "1961-10-13",
+                "xp": 0,
+                "start_palette_id": 3,
+                "active_effects": null,
+                "inventory": null,
+                "updated_at": "2023-09-11 13:25:32"
+            }
+        ]
+    },
+    {
+        "palette_id": 4,
+        "name": "Manessi",
+        "note": "p294 (Agalis Manessi) 2000 Colour Combinations",
+        "updated_at": "2021-01-03 00:46:48",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 4,
+                "colour_id": 20,
+                "note": "Red tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 4,
+                "colour_id": 24,
+                "note": "Yellow tile",
+                "updated_at": "2021-01-03 00:50:40"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 4,
+                "colour_id": 23,
+                "note": "Green tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 4,
+                "colour_id": 21,
+                "note": "Pink tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 4,
+                "colour_id": 22,
+                "note": "Lime tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 4,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:31"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 4,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 4,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 4,
+                "colour_id": 20,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 4,
+                "colour_id": 21,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 4,
+                "colour_id": 22,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 4,
+                "colour_id": 23,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 4,
+                "colour_id": 24,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": [
+            {
+                "user_id": 5,
+                "name": "Marcia",
+                "gender": "Female",
+                "dob": null,
+                "xp": 0,
+                "start_palette_id": 4,
+                "active_effects": null,
+                "inventory": null,
+                "updated_at": "2023-09-11 13:25:41"
+            }
+        ]
+    },
+    {
+        "palette_id": 5,
+        "name": "Bolivar",
+        "note": "p308 (Juan Bolivar) 2000 Colour Combinations",
+        "updated_at": "2021-01-03 18:46:47",
+        "palette_parts": [
+            {
+                "part_id": 8,
+                "palette_id": 5,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:57"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 5,
+                "colour_id": 26,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-11 22:25:36"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 5,
+                "colour_id": 25,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 5,
+                "colour_id": 26,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 5,
+                "colour_id": 27,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 5,
+                "colour_id": 28,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 5,
+                "colour_id": 29,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 6,
+        "name": "Year 1974",
+        "note": "1974 - p175 100 Years of Color",
+        "updated_at": "2021-08-15 10:45:23",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 6,
+                "colour_id": 46,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 6,
+                "colour_id": 42,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 6,
+                "colour_id": 43,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 6,
+                "colour_id": 44,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 6,
+                "colour_id": 45,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 6,
+                "colour_id": 46,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 7,
+        "name": "Kesseler",
+        "note": "p330, (Rob Kesseler) 2000 Colour Combinations.",
+        "updated_at": "2020-08-15 01:29:28",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Colour 2 (Yellow) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Colour 3 (Green) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Colour 4 (Blue) tile fill",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Colour 5 (Mauve) tile fill",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Colour 3 (Green) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Colour 4 (Blue) tile stroke",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Colour 5 (Mauve) tile stroke",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 8,
+        "name": "Year 1924",
+        "note": "1924 - p64 100 Years of Color",
+        "updated_at": "2021-08-15 10:45:14",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 8,
+                "colour_id": 62,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-16 16:54:02"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 9,
+        "name": "Year 1986",
+        "note": "1986 - p200 100 Years of Color",
+        "updated_at": "2021-08-15 10:45:31",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Start Scarper text",
+                "updated_at": "2021-04-09 15:54:48"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Start drip 1",
+                "updated_at": "2021-08-16 16:49:46"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Red tile stroke",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 10,
+        "name": "Year 1972",
+        "note": "1972 - p170 100 Years of Color",
+        "updated_at": "2021-08-15 10:45:53",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Colour 1 (Red) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Colour 2 (Yellow) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Colour 3 (Yellow) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Colour 4 (Light Blue) tile till",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Colour 5 (Dark Blue) tile till",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-16 23:59:57"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Colour 3 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Colour 4 (Light Blue) tile stroke",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Colour 5 (Dark Blue) tile stroke",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [],
+        "series": [
+            {
+                "series_id": 6,
+                "palette_id": 10,
+                "number": 6,
+                "updated_at": "2021-03-21 13:06:14"
+            }
+        ],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 11,
+        "name": "Year 1980",
+        "note": "1980 - p188 100 Years of Color",
+        "updated_at": "2021-08-15 10:45:53",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 11,
+                "colour_id": 70,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 22:17:37"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 11,
+                "colour_id": 68,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 11,
+                "colour_id": 70,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 11,
+                "colour_id": 71,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 11,
+                "colour_id": 69,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 11,
+                "colour_id": 72,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [
+            {
+                "grid_id": 7,
+                "seed_id": 7,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 7S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 8,
+                "seed_id": 8,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 8S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 12,
+                "seed_id": 12,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Conxy 9S",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            },
+            {
+                "grid_id": 13,
+                "seed_id": 13,
+                "tutorial_id": 1,
+                "palette_id": 11,
+                "name": "Test",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            }
+        ],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 12,
+        "name": "XL p90",
+        "note": "p91 Bright Color Index XL",
+        "updated_at": "2021-03-17 22:50:24",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 12,
+                "colour_id": 76,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 22:17:37"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 12,
+                "colour_id": 73,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 12,
+                "colour_id": 74,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 12,
+                "colour_id": 75,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 12,
+                "colour_id": 76,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 12,
+                "colour_id": 77,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [],
+        "series": [
+            {
+                "series_id": 5,
+                "palette_id": 12,
+                "number": 5,
+                "updated_at": "2021-03-21 13:06:14"
+            }
+        ],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 13,
+        "name": "XL p117",
+        "note": "p117 Bright Color Index XL",
+        "updated_at": "2021-03-17 22:50:24",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 13,
+                "colour_id": 81,
+                "note": "Start Scarper text",
+                "updated_at": "2021-04-09 15:54:37"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 13,
+                "colour_id": 78,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 13,
+                "colour_id": 79,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 13,
+                "colour_id": 80,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 13,
+                "colour_id": 81,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 13,
+                "colour_id": 82,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 14,
+        "name": "Martin-Davis",
+        "note": "Ashley Martin-Davis p300 2000 Colour Combinations",
+        "updated_at": "2021-03-17 23:24:24",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 14,
+                "colour_id": 87,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 23:34:15"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 14,
+                "colour_id": 83,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 14,
+                "colour_id": 88,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 14,
+                "colour_id": 85,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 14,
+                "colour_id": 86,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 14,
+                "colour_id": 87,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            }
+        ],
+        "grids": [],
+        "series": [
+            {
+                "series_id": 4,
+                "palette_id": 14,
+                "number": 4,
+                "updated_at": "2021-03-21 13:06:14"
+            }
+        ],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 15,
+        "name": "Rouden",
+        "note": "p318 (Mirjam Rouden) 2000 Colour Combinations",
+        "updated_at": "2021-03-19 21:53:09",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 15,
+                "colour_id": 89,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-19 22:04:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 15,
+                "colour_id": 89,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 15,
+                "colour_id": 90,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 15,
+                "colour_id": 92,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 15,
+                "colour_id": 93,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 15,
+                "colour_id": 91,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-19 22:29:59"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 16,
+        "name": "Egyptian Papyrus",
+        "note": "No. 105, Practical Color Combinations",
+        "updated_at": "2021-04-03 18:51:10",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Red tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 16,
+                "colour_id": 97,
+                "note": "Yellow tile",
+                "updated_at": "2020-11-12 22:56:41"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 16,
+                "colour_id": 95,
+                "note": "Green tile",
+                "updated_at": "2020-11-12 22:57:22"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 16,
+                "colour_id": 98,
+                "note": "Light Blue tile",
+                "updated_at": "2021-01-04 19:10:44"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 16,
+                "colour_id": 99,
+                "note": "Dark Blue tile",
+                "updated_at": "2021-01-04 19:10:54"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 16,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 16,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-19 22:04:33"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 16,
+                "colour_id": 95,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 16,
+                "colour_id": 97,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 16,
+                "colour_id": 98,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 16,
+                "colour_id": 99,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-19 22:29:59"
+            }
+        ],
+        "grids": [],
+        "series": [
+            {
+                "series_id": 2,
+                "palette_id": 16,
+                "number": 2,
+                "updated_at": "2021-04-07 22:31:49"
+            }
+        ],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 17,
+        "name": "Suspicious",
+        "note": "Astrid suggestion",
+        "updated_at": "2021-07-24 15:54:14",
+        "palette_parts": [],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 18,
+        "name": "Default",
+        "note": "Used as default option",
+        "updated_at": "2021-08-14 13:42:26",
+        "palette_parts": [
+            {
+                "part_id": 7,
+                "palette_id": 18,
+                "colour_id": 2,
+                "note": "Black tile fill",
+                "updated_at": "2021-07-04 23:45:03"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:43"
+            },
+            {
+                "part_id": 9,
+                "palette_id": 18,
+                "colour_id": 38,
+                "note": "Arrow tile background",
+                "updated_at": "2021-08-15 23:17:49"
+            },
+            {
+                "part_id": 10,
+                "palette_id": 18,
+                "colour_id": 1,
+                "note": "Arrow tile arrow",
+                "updated_at": "2021-08-15 23:18:11"
+            },
+            {
+                "part_id": 11,
+                "palette_id": 18,
+                "colour_id": 31,
+                "note": "Grid background",
+                "updated_at": "2021-04-09 16:08:50"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 18,
+                "colour_id": 33,
+                "note": "Header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 18,
+                "colour_id": 32,
+                "note": "Header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 14,
+                "palette_id": 18,
+                "colour_id": 34,
+                "note": "Rotate Tile Stroke",
+                "updated_at": "2021-07-23 23:54:25"
+            },
+            {
+                "part_id": 30,
+                "palette_id": 18,
+                "colour_id": 2,
+                "note": "Black tile stroke",
+                "updated_at": "2021-08-16 12:34:48"
+            },
+            {
+                "part_id": 31,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Grid space stroke",
+                "updated_at": "2021-08-16 12:32:55"
+            },
+            {
+                "part_id": 32,
+                "palette_id": 18,
+                "colour_id": 38,
+                "note": "Arrow tile stroke",
+                "updated_at": "2021-08-16 12:34:08"
+            },
+            {
+                "part_id": 35,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Popup background",
+                "updated_at": "2021-04-09 16:00:23"
+            },
+            {
+                "part_id": 36,
+                "palette_id": 18,
+                "colour_id": 34,
+                "note": "Header text",
+                "updated_at": "2021-04-09 16:13:00"
+            },
+            {
+                "part_id": 41,
+                "palette_id": 18,
+                "colour_id": 1,
+                "note": "Popup underlay",
+                "updated_at": "2021-07-24 15:45:18"
+            },
+            {
+                "part_id": 42,
+                "palette_id": 18,
+                "colour_id": 102,
+                "note": "Create grid spawn popup slider step inactive",
+                "updated_at": "2021-08-16 12:30:34"
+            },
+            {
+                "part_id": 43,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Create grid spawn popup slider step active",
+                "updated_at": "2021-08-16 12:30:59"
+            },
+            {
+                "part_id": 44,
+                "palette_id": 18,
+                "colour_id": 104,
+                "note": "Popup heading text",
+                "updated_at": "2021-08-16 12:31:33"
+            },
+            {
+                "part_id": 45,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Button Stroke",
+                "updated_at": "2021-07-03 15:18:41"
+            },
+            {
+                "part_id": 46,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Button Fill",
+                "updated_at": "2021-07-03 15:18:41"
+            },
+            {
+                "part_id": 47,
+                "palette_id": 18,
+                "colour_id": 102,
+                "note": "Random tile fill",
+                "updated_at": "2021-07-05 23:53:04"
+            },
+            {
+                "part_id": 48,
+                "palette_id": 18,
+                "colour_id": 33,
+                "note": "Create Grid Ribbon Stroke",
+                "updated_at": "2021-08-15 16:19:47"
+            },
+            {
+                "part_id": 49,
+                "palette_id": 18,
+                "colour_id": 32,
+                "note": "Create grid spawn popup slider bar max value",
+                "updated_at": "2021-08-26 14:08:44"
+            },
+            {
+                "part_id": 50,
+                "palette_id": 18,
+                "colour_id": 117,
+                "note": "Create grid spawn popup slider bar headroom",
+                "updated_at": "2021-08-26 14:08:44"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 19,
+        "name": "Teresa 42",
+        "note": "Teresa Ivanore Vol 5 42",
+        "updated_at": "2021-08-21 19:24:16",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Start Scarper text",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Start drip 1",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Start drip 2",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 20,
+        "name": "Teresa 245",
+        "note": "Teresa Ivanore Vol 5 245",
+        "updated_at": "2021-08-17 20:47:14",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            }
+        ],
+        "grids": [
+            {
+                "grid_id": 14,
+                "seed_id": 15,
+                "tutorial_id": 1,
+                "palette_id": 20,
+                "name": "Random8x8",
+                "load_count": 0,
+                "play_count": 0,
+                "completed_count": 0,
+                "creator_user_id": 4,
+                "updated_at": "2023-09-17 20:40:59"
+            }
+        ],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 21,
+        "name": "Teresa 72",
+        "note": "Teresa Ivanore Vol 5 72",
+        "updated_at": "2021-08-17 20:47:14",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 21,
+                "colour_id": 133,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 21,
+                "colour_id": 132,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 21,
+                "colour_id": 131,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-25 11:23:42"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 21,
+                "colour_id": 144,
+                "note": "Light Blue tile fill (Was 130)",
+                "updated_at": "2021-08-25 11:33:53"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 21,
+                "colour_id": 124,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-08-25 11:11:02"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 21,
+                "colour_id": 133,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-21 21:19:59"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 21,
+                "colour_id": 132,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 21,
+                "colour_id": 131,
+                "note": "Green tile stroke (Was 131)",
+                "updated_at": "2021-08-25 11:22:41"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 21,
+                "colour_id": 144,
+                "note": "Light Blue tile stroke (Was 130)",
+                "updated_at": "2021-08-25 11:35:07"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 21,
+                "colour_id": 124,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-25 11:11:02"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 22,
+        "name": "Teresa 67",
+        "note": "Teresa Ivanore Vol 5 67",
+        "updated_at": "2021-08-17 20:47:14",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile fill",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": []
+    },
+    {
+        "palette_id": 23,
+        "name": "Picasso (weeping)",
+        "note": "p41, Picasso, The Weeping Woman, Art Icons, Em Sans.",
+        "updated_at": "2020-08-15 01:29:28",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Red tile fill",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Blue tile fill",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            }
+        ],
+        "grids": [],
+        "series": [],
+        "user_palettes": [],
+        "users": [
+            {
+                "user_id": 6,
+                "name": "Claudia",
+                "gender": "Female",
+                "dob": null,
+                "xp": 0,
+                "start_palette_id": 23,
+                "active_effects": null,
+                "inventory": null,
+                "updated_at": "2023-09-11 13:25:50"
+            }
+        ]
+    }
+]

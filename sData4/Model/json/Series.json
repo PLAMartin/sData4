@@ -1,0 +1,3065 @@
+[
+    {
+        "series_id": 1,
+        "palette_id": 1,
+        "number": 1,
+        "updated_at": "2021-08-31 13:11:24",
+        "palette": {
+            "palette_id": 1,
+            "name": "Beads",
+            "note": "p286, (Found colour palette 8) 2000 Colour Combinations.",
+            "updated_at": "2020-08-15 01:29:28"
+        },
+        "series_episodes": [
+            {
+                "series_id": 1,
+                "episode_id": 1,
+                "path_x": 50,
+                "path_delta_y": 0,
+                "updated_at": "2021-01-03 23:56:36"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 2,
+                "path_x": 50,
+                "path_delta_y": 21,
+                "updated_at": "2021-01-03 23:57:43"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 3,
+                "path_x": 64,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 4,
+                "path_x": 83,
+                "path_delta_y": 12,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 5,
+                "path_x": 90,
+                "path_delta_y": 21,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 6,
+                "path_x": 80,
+                "path_delta_y": 21,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 7,
+                "path_x": 60,
+                "path_delta_y": 12,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 8,
+                "path_x": 40,
+                "path_delta_y": 10,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 9,
+                "path_x": 22,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 10,
+                "path_x": 15,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 11,
+                "path_x": 15,
+                "path_delta_y": 22,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 12,
+                "path_x": 25,
+                "path_delta_y": 18,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 13,
+                "path_x": 42,
+                "path_delta_y": 13,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 14,
+                "path_x": 63,
+                "path_delta_y": 8,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 15,
+                "path_x": 80,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 16,
+                "path_x": 90,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 17,
+                "path_x": 87,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 18,
+                "path_x": 67,
+                "path_delta_y": 2,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 19,
+                "path_x": 57,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 20,
+                "path_x": 44,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 21,
+                "path_x": 24,
+                "path_delta_y": 0,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 22,
+                "path_x": 14,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 23,
+                "path_x": 14,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 24,
+                "path_x": 25,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 25,
+                "path_x": 40,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 26,
+                "path_x": 57,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 27,
+                "path_x": 72,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 28,
+                "path_x": 82,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 29,
+                "path_x": 87,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 30,
+                "path_x": 73,
+                "path_delta_y": 13,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 31,
+                "path_x": 54,
+                "path_delta_y": 3,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 32,
+                "path_x": 33,
+                "path_delta_y": 0,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 33,
+                "path_x": 15,
+                "path_delta_y": 7,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 34,
+                "path_x": 13,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 35,
+                "path_x": 30,
+                "path_delta_y": 10,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 36,
+                "path_x": 50,
+                "path_delta_y": 2,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 37,
+                "path_x": 70,
+                "path_delta_y": 2,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 38,
+                "path_x": 85,
+                "path_delta_y": 13,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 39,
+                "path_x": 83,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 40,
+                "path_x": 87,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 41,
+                "path_x": 88,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 42,
+                "path_x": 76,
+                "path_delta_y": 15,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 43,
+                "path_x": 58,
+                "path_delta_y": -10,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 44,
+                "path_x": 63,
+                "path_delta_y": -20,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 45,
+                "path_x": 56,
+                "path_delta_y": -18,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 46,
+                "path_x": 36,
+                "path_delta_y": 0,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 47,
+                "path_x": 18,
+                "path_delta_y": 10,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 48,
+                "path_x": 17,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 49,
+                "path_x": 22,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 50,
+                "path_x": 31,
+                "path_delta_y": 18,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 51,
+                "path_x": 42,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:40:50"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 52,
+                "path_x": 58,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 53,
+                "path_x": 71,
+                "path_delta_y": 15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 54,
+                "path_x": 83,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 55,
+                "path_x": 85,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 56,
+                "path_x": 80,
+                "path_delta_y": 18,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 57,
+                "path_x": 70,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 58,
+                "path_x": 58,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 59,
+                "path_x": 46,
+                "path_delta_y": 15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 60,
+                "path_x": 32,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 61,
+                "path_x": 20,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 62,
+                "path_x": 12,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 63,
+                "path_x": 12,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 64,
+                "path_x": 13,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 65,
+                "path_x": 24,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 66,
+                "path_x": 37,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 67,
+                "path_x": 45,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 68,
+                "path_x": 57,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 69,
+                "path_x": 76,
+                "path_delta_y": -2,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 70,
+                "path_x": 85,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 71,
+                "path_x": 20,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 72,
+                "path_x": 12,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 73,
+                "path_x": 12,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 74,
+                "path_x": 13,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 75,
+                "path_x": 24,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 76,
+                "path_x": 37,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 77,
+                "path_x": 45,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 78,
+                "path_x": 57,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 79,
+                "path_x": 76,
+                "path_delta_y": -2,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 80,
+                "path_x": 85,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 81,
+                "path_x": 20,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 82,
+                "path_x": 12,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 83,
+                "path_x": 12,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 84,
+                "path_x": 13,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 85,
+                "path_x": 24,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 86,
+                "path_x": 37,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 87,
+                "path_x": 45,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 88,
+                "path_x": 57,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 89,
+                "path_x": 76,
+                "path_delta_y": -2,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 90,
+                "path_x": 85,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 91,
+                "path_x": 20,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 92,
+                "path_x": 12,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 93,
+                "path_x": 12,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 94,
+                "path_x": 13,
+                "path_delta_y": 19,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 95,
+                "path_x": 24,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 96,
+                "path_x": 37,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 97,
+                "path_x": 45,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 98,
+                "path_x": 57,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 99,
+                "path_x": 76,
+                "path_delta_y": -2,
+                "updated_at": "2021-03-20 22:25:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 100,
+                "path_x": 85,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 22:25:42"
+            }
+        ],
+        "boxes": [
+            {
+                "series_id": 1,
+                "episode_id": 1,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 1,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 2,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 2,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 3,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 3,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 4,
+                "variant_id": 1,
+                "grid_id": 4,
+                "updated_at": "2021-04-12 22:38:29"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 4,
+                "variant_id": 2,
+                "grid_id": 4,
+                "updated_at": "2021-04-12 22:38:41"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 5,
+                "variant_id": 1,
+                "grid_id": 5,
+                "updated_at": "2021-04-12 22:38:53"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 5,
+                "variant_id": 2,
+                "grid_id": 5,
+                "updated_at": "2021-04-12 22:39:02"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 6,
+                "variant_id": 1,
+                "grid_id": 6,
+                "updated_at": "2021-04-12 22:39:16"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 6,
+                "variant_id": 2,
+                "grid_id": 6,
+                "updated_at": "2021-04-12 22:39:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 7,
+                "variant_id": 1,
+                "grid_id": 7,
+                "updated_at": "2021-04-12 22:39:39"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 7,
+                "variant_id": 2,
+                "grid_id": 7,
+                "updated_at": "2021-04-12 22:39:48"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 8,
+                "variant_id": 1,
+                "grid_id": 14,
+                "updated_at": "2021-08-17 21:51:42"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 8,
+                "variant_id": 2,
+                "grid_id": 8,
+                "updated_at": "2021-04-12 22:40:09"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 9,
+                "variant_id": 1,
+                "grid_id": 9,
+                "updated_at": "2021-04-12 22:40:20"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 9,
+                "variant_id": 2,
+                "grid_id": 9,
+                "updated_at": "2021-04-12 22:40:32"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 10,
+                "variant_id": 1,
+                "grid_id": 10,
+                "updated_at": "2021-04-14 22:26:07"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 10,
+                "variant_id": 2,
+                "grid_id": 9,
+                "updated_at": "2021-04-14 16:33:13"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 11,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 11,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 12,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 12,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 13,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 13,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 14,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 14,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 15,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 15,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 16,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 16,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 17,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 17,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 18,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 18,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 19,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 19,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 20,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 20,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 21,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 21,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 22,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 22,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 23,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 23,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 24,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 24,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 25,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 25,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 26,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 26,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 27,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 27,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 28,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 28,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 29,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 29,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 30,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 30,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 31,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 31,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 32,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 32,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 33,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 33,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 34,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 34,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 35,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 35,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 36,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 36,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 37,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 37,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 38,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 38,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 39,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 39,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 40,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 40,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 41,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 41,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 42,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 42,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 43,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 43,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 44,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 44,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 45,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 45,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 46,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 46,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 47,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 47,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 48,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 48,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 49,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 49,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 50,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 50,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 51,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 51,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 52,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 52,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 53,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 53,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 54,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 54,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 55,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 55,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 56,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 56,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 57,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 57,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 58,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 58,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 59,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 59,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 60,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 60,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 61,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 61,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 62,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 62,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 63,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 63,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 64,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 64,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 65,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 65,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 66,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 66,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 67,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 67,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 68,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 68,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 69,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 69,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 70,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 70,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 71,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 71,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 72,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 72,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 73,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 73,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 74,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 74,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 75,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 75,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 76,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 76,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 77,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 77,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 78,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 78,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 79,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 79,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 80,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 80,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 81,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 81,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 82,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 82,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 83,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 83,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 84,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 84,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 85,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 85,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 86,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 86,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 87,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 87,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 88,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 88,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 89,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 89,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 90,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 90,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 91,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 91,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 92,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 92,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 93,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 93,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 94,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 94,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 95,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 95,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 96,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 96,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 97,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 97,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 98,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 98,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 99,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 99,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 100,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 1,
+                "episode_id": 100,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            }
+        ]
+    },
+    {
+        "series_id": 2,
+        "palette_id": 16,
+        "number": 2,
+        "updated_at": "2021-04-07 22:31:49",
+        "palette": {
+            "palette_id": 16,
+            "name": "Egyptian Papyrus",
+            "note": "No. 105, Practical Color Combinations",
+            "updated_at": "2021-04-03 18:51:10"
+        },
+        "series_episodes": [
+            {
+                "series_id": 2,
+                "episode_id": 1,
+                "path_x": 50,
+                "path_delta_y": 0,
+                "updated_at": "2021-01-03 23:56:36"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 2,
+                "path_x": 50,
+                "path_delta_y": 21,
+                "updated_at": "2021-01-03 23:57:43"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 3,
+                "path_x": 64,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 4,
+                "path_x": 83,
+                "path_delta_y": 12,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 5,
+                "path_x": 90,
+                "path_delta_y": 21,
+                "updated_at": "2021-03-20 21:11:51"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 6,
+                "path_x": 80,
+                "path_delta_y": 21,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 7,
+                "path_x": 60,
+                "path_delta_y": 12,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 8,
+                "path_x": 40,
+                "path_delta_y": 10,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 9,
+                "path_x": 22,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 10,
+                "path_x": 15,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 11,
+                "path_x": 15,
+                "path_delta_y": 22,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 12,
+                "path_x": 25,
+                "path_delta_y": 18,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 13,
+                "path_x": 42,
+                "path_delta_y": 13,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 14,
+                "path_x": 63,
+                "path_delta_y": 8,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 15,
+                "path_x": 80,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 16,
+                "path_x": 90,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 17,
+                "path_x": 87,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 18,
+                "path_x": 67,
+                "path_delta_y": 2,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 19,
+                "path_x": 57,
+                "path_delta_y": -17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 20,
+                "path_x": 44,
+                "path_delta_y": -15,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 21,
+                "path_x": 24,
+                "path_delta_y": 0,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 22,
+                "path_x": 14,
+                "path_delta_y": 16,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 23,
+                "path_x": 14,
+                "path_delta_y": 20,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 24,
+                "path_x": 25,
+                "path_delta_y": 17,
+                "updated_at": "2021-03-20 21:20:44"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 25,
+                "path_x": 40,
+                "path_delta_y": 14,
+                "updated_at": "2021-03-20 21:20:44"
+            }
+        ],
+        "boxes": [
+            {
+                "series_id": 2,
+                "episode_id": 1,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 1,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 2,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 2,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 3,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 3,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 4,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 4,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 5,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 5,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 6,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 6,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 7,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 7,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 8,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 8,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 9,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 9,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 10,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 10,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 11,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 11,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 12,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 12,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 13,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 13,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 14,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 14,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 15,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 15,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 16,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 16,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 17,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 17,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 18,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 18,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 19,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 19,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 20,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 20,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 21,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 21,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 22,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 22,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 23,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 23,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 24,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 24,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 25,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 25,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 26,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 26,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 27,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 27,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 28,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 28,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 29,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 29,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 30,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 30,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 31,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 31,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 32,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 32,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 33,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 33,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 34,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 34,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 35,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 35,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 36,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 36,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 37,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 37,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 38,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 38,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 39,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 39,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 40,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 40,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 41,
+                "variant_id": 1,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 41,
+                "variant_id": 2,
+                "grid_id": 1,
+                "updated_at": "2020-08-16 22:53:27"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 42,
+                "variant_id": 1,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 42,
+                "variant_id": 2,
+                "grid_id": 2,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 43,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 43,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 44,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 44,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 45,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 45,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 46,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 46,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 47,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 47,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 48,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 48,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 49,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 49,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 50,
+                "variant_id": 1,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            },
+            {
+                "series_id": 2,
+                "episode_id": 50,
+                "variant_id": 2,
+                "grid_id": 3,
+                "updated_at": "2021-03-20 10:27:08"
+            }
+        ]
+    },
+    {
+        "series_id": 3,
+        "palette_id": 3,
+        "number": 3,
+        "updated_at": "2021-04-06 15:18:02",
+        "palette": {
+            "palette_id": 3,
+            "name": "Found 6",
+            "note": "p282 (Found colour palette 6) 2000 Colour Combinations",
+            "updated_at": "2021-01-02 22:48:48"
+        },
+        "series_episodes": [],
+        "boxes": []
+    },
+    {
+        "series_id": 4,
+        "palette_id": 14,
+        "number": 4,
+        "updated_at": "2021-03-21 13:06:14",
+        "palette": {
+            "palette_id": 14,
+            "name": "Martin-Davis",
+            "note": "Ashley Martin-Davis p300 2000 Colour Combinations",
+            "updated_at": "2021-03-17 23:24:24"
+        },
+        "series_episodes": [],
+        "boxes": []
+    },
+    {
+        "series_id": 5,
+        "palette_id": 12,
+        "number": 5,
+        "updated_at": "2021-03-21 13:06:14",
+        "palette": {
+            "palette_id": 12,
+            "name": "XL p90",
+            "note": "p91 Bright Color Index XL",
+            "updated_at": "2021-03-17 22:50:24"
+        },
+        "series_episodes": [],
+        "boxes": []
+    },
+    {
+        "series_id": 6,
+        "palette_id": 10,
+        "number": 6,
+        "updated_at": "2021-03-21 13:06:14",
+        "palette": {
+            "palette_id": 10,
+            "name": "Year 1972",
+            "note": "1972 - p170 100 Years of Color",
+            "updated_at": "2021-08-15 10:45:53"
+        },
+        "series_episodes": [],
+        "boxes": []
+    }
+]

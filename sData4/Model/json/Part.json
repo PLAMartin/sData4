@@ -1,0 +1,3309 @@
+[
+    {
+        "part_id": 1,
+        "name": "Colour1TileFill",
+        "application": "Colour Tile 1 Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:52:41",
+        "palette_parts": [
+            {
+                "part_id": 1,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-16 12:51:28"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-16 12:39:07"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 4,
+                "colour_id": 20,
+                "note": "Red tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Colour 1 (Red) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Red tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 21,
+                "colour_id": 133,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile fill",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 1,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Red tile fill",
+                "updated_at": "2021-08-25 10:53:09"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 1,
+                "name": "Colour1(Red)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 4,
+                "fill_part_id": 1,
+                "stroke_part_id": 24,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:45:38"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 2,
+        "name": "Colour2TileFill",
+        "application": "Colour Tile 2 Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:53:17",
+        "palette_parts": [
+            {
+                "part_id": 2,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 2,
+                "colour_id": 10,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-16 12:53:00"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Colour 2 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:39:32"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 4,
+                "colour_id": 24,
+                "note": "Yellow tile",
+                "updated_at": "2021-01-03 00:50:40"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Colour 2 (Yellow) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Colour 2 (Yellow) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 16,
+                "colour_id": 97,
+                "note": "Yellow tile",
+                "updated_at": "2020-11-12 22:56:41"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 21,
+                "colour_id": 132,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 2,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-08-21 21:20:30"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 2,
+                "name": "Colour2(Yellow)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 5,
+                "fill_part_id": 2,
+                "stroke_part_id": 25,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:45:51"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 3,
+        "name": "Colour3TileFill",
+        "application": "Colour Tile 3 Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:53:42",
+        "palette_parts": [
+            {
+                "part_id": 3,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 2,
+                "colour_id": 11,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Colour 3 (Green) tile fill",
+                "updated_at": "2021-08-16 12:40:17"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 4,
+                "colour_id": 23,
+                "note": "Green tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Colour 3 (Green) tile fill",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Colour 3 (Yellow) tile till",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 16,
+                "colour_id": 95,
+                "note": "Green tile",
+                "updated_at": "2020-11-12 22:57:22"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 21,
+                "colour_id": 131,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-25 11:23:42"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 3,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Green tile fill",
+                "updated_at": "2021-08-21 21:36:21"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 3,
+                "name": "Colour3(Green)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 6,
+                "fill_part_id": 3,
+                "stroke_part_id": 26,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:02"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 4,
+        "name": "Colour4TileFill",
+        "application": "Colour Tile 4 Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:54:07",
+        "palette_parts": [
+            {
+                "part_id": 4,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 2,
+                "colour_id": 12,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:50:04"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 4,
+                "colour_id": 21,
+                "note": "Pink tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Colour 4 (Blue) tile fill",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Colour 4 (Light Blue) tile till",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 16,
+                "colour_id": 98,
+                "note": "Light Blue tile",
+                "updated_at": "2021-01-04 19:10:44"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 21,
+                "colour_id": 144,
+                "note": "Light Blue tile fill (Was 130)",
+                "updated_at": "2021-08-25 11:33:53"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 4,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-08-21 21:36:51"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 4,
+                "name": "Colour4(LightBlue)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 7,
+                "fill_part_id": 4,
+                "stroke_part_id": 27,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 4,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:17"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 5,
+        "name": "Colour5TileFill",
+        "application": "Colour Tile 5 Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:54:34",
+        "palette_parts": [
+            {
+                "part_id": 5,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 2,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 3,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 16:19:34"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 4,
+                "colour_id": 22,
+                "note": "Lime tile",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Colour 5 (Mauve) tile fill",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Colour 5 (Dark Blue) tile till",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 16,
+                "colour_id": 99,
+                "note": "Dark Blue tile",
+                "updated_at": "2021-01-04 19:10:54"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 21,
+                "colour_id": 124,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-08-25 11:11:02"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 5,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Blue tile fill",
+                "updated_at": "2021-08-21 21:50:22"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 5,
+                "name": "Colour5(DarkBlue)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 8,
+                "fill_part_id": 5,
+                "stroke_part_id": 28,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 5,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:27"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 6,
+        "name": "WhiteTileFill",
+        "application": "White Tile Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:19",
+        "palette_parts": [
+            {
+                "part_id": 6,
+                "palette_id": 1,
+                "colour_id": 1,
+                "note": "White tile fill",
+                "updated_at": "2023-09-18 15:22:30"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 6,
+                "name": "White",
+                "blocktype_id": 2,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 3,
+                "fill_part_id": 6,
+                "stroke_part_id": 29,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:48:44"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 7,
+        "name": "BlackTileFill",
+        "application": "Black Tile Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:29",
+        "palette_parts": [
+            {
+                "part_id": 7,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Black tile fill",
+                "updated_at": "2021-08-16 13:00:00"
+            },
+            {
+                "part_id": 7,
+                "palette_id": 18,
+                "colour_id": 2,
+                "note": "Black tile fill",
+                "updated_at": "2021-07-04 23:45:03"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 7,
+                "name": "Black",
+                "blocktype_id": 3,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 2,
+                "fill_part_id": 7,
+                "stroke_part_id": 30,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:58"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 8,
+        "name": "GridSpaceFill",
+        "application": "Grid Space Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:45",
+        "palette_parts": [
+            {
+                "part_id": 8,
+                "palette_id": 2,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:21:14"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 3,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:43"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 4,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:31"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 5,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:57"
+            },
+            {
+                "part_id": 8,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Grid space fill",
+                "updated_at": "2021-04-09 16:20:43"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 16,
+                "name": "Space",
+                "blocktype_id": 5,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 1,
+                "fill_part_id": 8,
+                "stroke_part_id": 31,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:41"
+            }
+        ],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 9,
+        "name": "ArrowTileBackground",
+        "application": "Background of Arrow Tile",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:31:59",
+        "palette_parts": [
+            {
+                "part_id": 9,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Arrow tile background",
+                "updated_at": "2021-08-15 23:17:49"
+            },
+            {
+                "part_id": 9,
+                "palette_id": 18,
+                "colour_id": 38,
+                "note": "Arrow tile background",
+                "updated_at": "2021-08-15 23:17:49"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 8,
+                "name": "ArrowDown",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 1,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 12,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 1,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:46"
+            },
+            {
+                "block_id": 9,
+                "name": "ArrowUp",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 10,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 3,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:54:47"
+            },
+            {
+                "block_id": 10,
+                "name": "ArrowRight",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 11,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 4,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:59"
+            },
+            {
+                "block_id": 11,
+                "name": "ArrowLeft",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 13,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 2,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:34"
+            }
+        ],
+        "block_inner_parts": [
+            {
+                "block_id": 12,
+                "name": "Rotate90Clockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 14,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:27"
+            },
+            {
+                "block_id": 13,
+                "name": "Rotate90AntiClockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 15,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:17"
+            },
+            {
+                "block_id": 14,
+                "name": "Rotate180",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 16,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:06"
+            }
+        ],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 10,
+        "name": "ArrowTileArrow",
+        "application": "Arrow in Arrow Tile",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:32:30",
+        "palette_parts": [
+            {
+                "part_id": 10,
+                "palette_id": 18,
+                "colour_id": 1,
+                "note": "Arrow tile arrow",
+                "updated_at": "2021-08-15 23:18:11"
+            }
+        ],
+        "block_fill_parts": [
+            {
+                "block_id": 12,
+                "name": "Rotate90Clockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 14,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:27"
+            },
+            {
+                "block_id": 13,
+                "name": "Rotate90AntiClockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 15,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:17"
+            },
+            {
+                "block_id": 14,
+                "name": "Rotate180",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 16,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:06"
+            }
+        ],
+        "block_inner_parts": [
+            {
+                "block_id": 8,
+                "name": "ArrowDown",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 1,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 12,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 1,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:46"
+            },
+            {
+                "block_id": 9,
+                "name": "ArrowUp",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 10,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 3,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:54:47"
+            },
+            {
+                "block_id": 10,
+                "name": "ArrowRight",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 11,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 4,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:59"
+            },
+            {
+                "block_id": 11,
+                "name": "ArrowLeft",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 13,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 2,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:34"
+            }
+        ],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 11,
+        "name": "GridBackground",
+        "application": "Background of grid",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:33:08",
+        "palette_parts": [
+            {
+                "part_id": 11,
+                "palette_id": 18,
+                "colour_id": 31,
+                "note": "Grid background",
+                "updated_at": "2021-04-09 16:08:50"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 12,
+        "name": "HeaderDarkBackground",
+        "application": "Background of grid header moves",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:33:50",
+        "palette_parts": [
+            {
+                "part_id": 12,
+                "palette_id": 1,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 2,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 3,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 4,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 16,
+                "colour_id": 33,
+                "note": "Conxy header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 12,
+                "palette_id": 18,
+                "colour_id": 33,
+                "note": "Header dark background",
+                "updated_at": "2021-04-09 15:59:52"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 13,
+        "name": "HeaderLightBackground",
+        "application": "Background of grid header targets",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:55:42",
+        "palette_parts": [
+            {
+                "part_id": 13,
+                "palette_id": 1,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 2,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 3,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 4,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 16,
+                "colour_id": 32,
+                "note": "Conxy header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            },
+            {
+                "part_id": 13,
+                "palette_id": 18,
+                "colour_id": 32,
+                "note": "Header light background",
+                "updated_at": "2021-04-09 15:59:52"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 14,
+        "name": "RotateTileStroke",
+        "application": "Edge of Rotate tile",
+        "alpha": 1,
+        "updated_at": "2021-01-06 19:17:15",
+        "palette_parts": [
+            {
+                "part_id": 14,
+                "palette_id": 1,
+                "colour_id": 34,
+                "note": "Rotate Tile Stroke",
+                "updated_at": "2021-07-23 23:54:25"
+            },
+            {
+                "part_id": 14,
+                "palette_id": 18,
+                "colour_id": 34,
+                "note": "Rotate Tile Stroke",
+                "updated_at": "2021-07-23 23:54:25"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 12,
+                "name": "Rotate90Clockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 14,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:27"
+            },
+            {
+                "block_id": 13,
+                "name": "Rotate90AntiClockwise",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 15,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:17"
+            },
+            {
+                "block_id": 14,
+                "name": "Rotate180",
+                "blocktype_id": 6,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 0,
+                "display_order": 16,
+                "fill_part_id": 10,
+                "stroke_part_id": 14,
+                "inner_part_id": 9,
+                "create_group": 4,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:06"
+            }
+        ]
+    },
+    {
+        "part_id": 15,
+        "name": "StartSceneText",
+        "application": "Start screen Scarper text",
+        "alpha": 1,
+        "updated_at": "2021-04-07 22:27:31",
+        "palette_parts": [
+            {
+                "part_id": 15,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-11 22:18:27"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 5,
+                "colour_id": 26,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-11 22:25:36"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 6,
+                "colour_id": 46,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Start Conxy text",
+                "updated_at": "2021-01-14 22:29:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Start Scarper text",
+                "updated_at": "2021-04-09 15:54:48"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-16 23:59:57"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 11,
+                "colour_id": 70,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 22:17:37"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 12,
+                "colour_id": 76,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 22:17:37"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 13,
+                "colour_id": 81,
+                "note": "Start Scarper text",
+                "updated_at": "2021-04-09 15:54:37"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 14,
+                "colour_id": 87,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-17 23:34:15"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 15,
+                "colour_id": 89,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-19 22:04:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Start Conxy text",
+                "updated_at": "2021-03-19 22:04:33"
+            },
+            {
+                "part_id": 15,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Start Scarper text",
+                "updated_at": "2021-08-17 21:32:37"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 16,
+        "name": "StartDrip1",
+        "application": "Start Drip 1",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:23:15",
+        "palette_parts": [
+            {
+                "part_id": 16,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 3,
+                "colour_id": 15,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 4,
+                "colour_id": 20,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 5,
+                "colour_id": 25,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 6,
+                "colour_id": 42,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 8,
+                "colour_id": 53,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Start drip 1",
+                "updated_at": "2021-08-16 16:49:46"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 11,
+                "colour_id": 68,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 12,
+                "colour_id": 73,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 13,
+                "colour_id": 78,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 14,
+                "colour_id": 83,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 15,
+                "colour_id": 89,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 16,
+                "colour_id": 95,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Start drip 1",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 16,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Start drip 1",
+                "updated_at": "2021-01-04 19:05:44"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 17,
+        "name": "StartDrip2",
+        "application": "Start Drip 2",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:23:15",
+        "palette_parts": [
+            {
+                "part_id": 17,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 2,
+                "colour_id": 10,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 4,
+                "colour_id": 21,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 5,
+                "colour_id": 26,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 6,
+                "colour_id": 43,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 11,
+                "colour_id": 70,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 12,
+                "colour_id": 74,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 13,
+                "colour_id": 79,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 14,
+                "colour_id": 88,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 15,
+                "colour_id": 90,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 16,
+                "colour_id": 96,
+                "note": "Start drip 2",
+                "updated_at": "2021-03-17 23:38:23"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Start drip 2",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 17,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Start drip 2",
+                "updated_at": "2021-01-04 19:05:44"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 18,
+        "name": "StartDrip3",
+        "application": "Start Drip 3",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:23:15",
+        "palette_parts": [
+            {
+                "part_id": 18,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 2,
+                "colour_id": 11,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 4,
+                "colour_id": 22,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 5,
+                "colour_id": 27,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 6,
+                "colour_id": 44,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 11,
+                "colour_id": 71,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 12,
+                "colour_id": 75,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 13,
+                "colour_id": 80,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 14,
+                "colour_id": 85,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 15,
+                "colour_id": 92,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 16,
+                "colour_id": 97,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 18,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Start drip 3",
+                "updated_at": "2021-01-04 19:05:44"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 19,
+        "name": "StartDrip4",
+        "application": "Start Drip 4",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:23:15",
+        "palette_parts": [
+            {
+                "part_id": 19,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 2,
+                "colour_id": 41,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 4,
+                "colour_id": 23,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 5,
+                "colour_id": 28,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 6,
+                "colour_id": 45,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 11,
+                "colour_id": 69,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 12,
+                "colour_id": 76,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 13,
+                "colour_id": 81,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 14,
+                "colour_id": 86,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 15,
+                "colour_id": 93,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 16,
+                "colour_id": 98,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Start drip 4",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 19,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Start drip 4",
+                "updated_at": "2021-01-04 19:08:24"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 20,
+        "name": "StartDrip5",
+        "application": "Start Drip 5",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:23:15",
+        "palette_parts": [
+            {
+                "part_id": 20,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 2,
+                "colour_id": 12,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 4,
+                "colour_id": 24,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 5,
+                "colour_id": 29,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 6,
+                "colour_id": 46,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 11,
+                "colour_id": 72,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 12,
+                "colour_id": 77,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 13,
+                "colour_id": 82,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 14,
+                "colour_id": 87,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 15,
+                "colour_id": 91,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-19 22:29:59"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 16,
+                "colour_id": 99,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-19 22:29:59"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 20,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Start drip 5",
+                "updated_at": "2021-03-08 21:33:52"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 21,
+        "name": "WhiteTileStroke",
+        "application": "Edge of White tile",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:57:25",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 23,
+        "name": "CreateGridSpaceEdge",
+        "application": "Edge of Grid Space in Create Scene",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:43:08",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 24,
+        "name": "Colour1TileStroke",
+        "application": "Colour Tile 1 Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:53:03",
+        "palette_parts": [
+            {
+                "part_id": 24,
+                "palette_id": 1,
+                "colour_id": 3,
+                "note": "Red tile stroke",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 2,
+                "colour_id": 9,
+                "note": "Red tile stroke",
+                "updated_at": "2021-07-04 22:49:49"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 3,
+                "colour_id": 19,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2020-11-12 22:56:17"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 7,
+                "colour_id": 48,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 8,
+                "colour_id": 62,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-16 16:54:02"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 9,
+                "colour_id": 62,
+                "note": "Red tile stroke",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 10,
+                "colour_id": 66,
+                "note": "Colour 1 (Red) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 19,
+                "colour_id": 124,
+                "note": "Colour 1 (Red) tile fill",
+                "updated_at": "2021-08-17 21:32:37"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 20,
+                "colour_id": 125,
+                "note": "Red tile fill",
+                "updated_at": "2021-07-04 22:30:54"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 21,
+                "colour_id": 133,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-21 21:19:59"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 22,
+                "colour_id": 141,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            },
+            {
+                "part_id": 24,
+                "palette_id": 23,
+                "colour_id": 145,
+                "note": "Red tile stroke",
+                "updated_at": "2021-08-25 10:53:09"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 1,
+                "name": "Colour1(Red)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 4,
+                "fill_part_id": 1,
+                "stroke_part_id": 24,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:45:38"
+            }
+        ]
+    },
+    {
+        "part_id": 25,
+        "name": "Colour2TileStroke",
+        "application": "Colour Tile 2 Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:53:29",
+        "palette_parts": [
+            {
+                "part_id": 25,
+                "palette_id": 1,
+                "colour_id": 5,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 3,
+                "colour_id": 16,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-08-16 12:39:32"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 7,
+                "colour_id": 49,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 8,
+                "colour_id": 55,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 9,
+                "colour_id": 58,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 10,
+                "colour_id": 67,
+                "note": "Colour 2 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 19,
+                "colour_id": 123,
+                "note": "Colour 2 (Green) tile fill",
+                "updated_at": "2021-08-17 21:18:42"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 20,
+                "colour_id": 126,
+                "note": "Yellow tile fill",
+                "updated_at": "2021-07-04 22:32:01"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 21,
+                "colour_id": 132,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 22,
+                "colour_id": 135,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            },
+            {
+                "part_id": 25,
+                "palette_id": 23,
+                "colour_id": 147,
+                "note": "Yellow tile stroke",
+                "updated_at": "2021-08-21 21:20:30"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 2,
+                "name": "Colour2(Yellow)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 5,
+                "fill_part_id": 2,
+                "stroke_part_id": 25,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:45:51"
+            }
+        ]
+    },
+    {
+        "part_id": 26,
+        "name": "Colour3TileStroke",
+        "application": "Colour Tile 3 Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:53:55",
+        "palette_parts": [
+            {
+                "part_id": 26,
+                "palette_id": 1,
+                "colour_id": 4,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 3,
+                "colour_id": 18,
+                "note": "Colour 3 (Green) tile stroke",
+                "updated_at": "2021-08-16 12:40:17"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 7,
+                "colour_id": 50,
+                "note": "Colour 3 (Green) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 8,
+                "colour_id": 56,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 9,
+                "colour_id": 60,
+                "note": "Green tile stroke",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 10,
+                "colour_id": 63,
+                "note": "Colour 3 (Yellow) tile stroke",
+                "updated_at": "2021-01-04 19:05:44"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 19,
+                "colour_id": 120,
+                "note": "Colour 3 (Yellow) tile fill",
+                "updated_at": "2021-08-16 12:53:31"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 20,
+                "colour_id": 127,
+                "note": "Green tile fill",
+                "updated_at": "2021-07-04 22:31:09"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 21,
+                "colour_id": 131,
+                "note": "Green tile stroke (Was 131)",
+                "updated_at": "2021-08-25 11:22:41"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 22,
+                "colour_id": 137,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            },
+            {
+                "part_id": 26,
+                "palette_id": 23,
+                "colour_id": 146,
+                "note": "Green tile stroke",
+                "updated_at": "2021-08-21 21:36:21"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 3,
+                "name": "Colour3(Green)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 6,
+                "fill_part_id": 3,
+                "stroke_part_id": 26,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:02"
+            }
+        ]
+    },
+    {
+        "part_id": 27,
+        "name": "Colour4TileStroke",
+        "application": "Colour Tile 4 Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:54:22",
+        "palette_parts": [
+            {
+                "part_id": 27,
+                "palette_id": 1,
+                "colour_id": 7,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 3,
+                "colour_id": 17,
+                "note": "Colour 4 (Light Blue) tile stroke",
+                "updated_at": "2021-08-16 16:20:02"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 7,
+                "colour_id": 51,
+                "note": "Colour 4 (Blue) tile stroke",
+                "updated_at": "2021-01-04 19:08:24"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 8,
+                "colour_id": 57,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 9,
+                "colour_id": 61,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 10,
+                "colour_id": 64,
+                "note": "Colour 4 (Light Blue) tile stroke",
+                "updated_at": "2021-03-08 23:48:56"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 19,
+                "colour_id": 121,
+                "note": "Colour 4 (Light Blue) tile fill",
+                "updated_at": "2021-08-16 12:53:54"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 20,
+                "colour_id": 128,
+                "note": "Light Blue tile fill",
+                "updated_at": "2021-07-04 22:45:41"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 21,
+                "colour_id": 144,
+                "note": "Light Blue tile stroke (Was 130)",
+                "updated_at": "2021-08-25 11:35:07"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 22,
+                "colour_id": 121,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            },
+            {
+                "part_id": 27,
+                "palette_id": 23,
+                "colour_id": 149,
+                "note": "Light Blue tile stroke",
+                "updated_at": "2021-08-21 21:36:51"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 4,
+                "name": "Colour4(LightBlue)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 7,
+                "fill_part_id": 4,
+                "stroke_part_id": 27,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 4,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:17"
+            }
+        ]
+    },
+    {
+        "part_id": 28,
+        "name": "Colour5TileStroke",
+        "application": "Colour Tile 5 Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:54:47",
+        "palette_parts": [
+            {
+                "part_id": 28,
+                "palette_id": 1,
+                "colour_id": 6,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 3,
+                "colour_id": 13,
+                "note": "Colour 5 (Dark Blue) tile stroke",
+                "updated_at": "2021-08-16 16:22:09"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 7,
+                "colour_id": 52,
+                "note": "Colour 5 (Mauve) tile stroke",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 8,
+                "colour_id": 54,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 9,
+                "colour_id": 59,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 10,
+                "colour_id": 65,
+                "note": "Colour 5 (Dark Blue) tile stroke",
+                "updated_at": "2021-03-08 21:34:06"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 19,
+                "colour_id": 122,
+                "note": "Colour 5 (Dark Blue) tile fill",
+                "updated_at": "2021-08-16 13:07:20"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 20,
+                "colour_id": 129,
+                "note": "Dark Blue tile fill",
+                "updated_at": "2021-07-04 22:44:44"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 21,
+                "colour_id": 124,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-25 11:11:02"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 22,
+                "colour_id": 139,
+                "note": "Dark Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            },
+            {
+                "part_id": 28,
+                "palette_id": 23,
+                "colour_id": 148,
+                "note": "Blue tile stroke",
+                "updated_at": "2021-08-21 21:50:22"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 5,
+                "name": "Colour5(DarkBlue)",
+                "blocktype_id": 1,
+                "connectable": 1,
+                "targetable": 1,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 8,
+                "fill_part_id": 5,
+                "stroke_part_id": 28,
+                "inner_part_id": null,
+                "create_group": 2,
+                "create_group_order": 5,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:27"
+            }
+        ]
+    },
+    {
+        "part_id": 29,
+        "name": "WhiteTileStroke",
+        "application": "White Tile Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:19",
+        "palette_parts": [
+            {
+                "part_id": 29,
+                "palette_id": 1,
+                "colour_id": 39,
+                "note": "White tile edge",
+                "updated_at": "2023-09-18 15:22:52"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 6,
+                "name": "White",
+                "blocktype_id": 2,
+                "connectable": 1,
+                "targetable": 0,
+                "shuffleable": 1,
+                "spawnable": 1,
+                "display_order": 3,
+                "fill_part_id": 6,
+                "stroke_part_id": 29,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 3,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:48:44"
+            }
+        ]
+    },
+    {
+        "part_id": 30,
+        "name": "BlackTileStroke",
+        "application": "Black Tile Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:29",
+        "palette_parts": [
+            {
+                "part_id": 30,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Black tile stroke",
+                "updated_at": "2021-08-16 13:00:00"
+            },
+            {
+                "part_id": 30,
+                "palette_id": 18,
+                "colour_id": 2,
+                "note": "Black tile stroke",
+                "updated_at": "2021-08-16 12:34:48"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 7,
+                "name": "Black",
+                "blocktype_id": 3,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 2,
+                "fill_part_id": 7,
+                "stroke_part_id": 30,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 2,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:58"
+            }
+        ]
+    },
+    {
+        "part_id": 31,
+        "name": "GridSpaceStroke",
+        "application": "Grid Space Edge",
+        "alpha": 1,
+        "updated_at": "2021-01-05 23:49:45",
+        "palette_parts": [
+            {
+                "part_id": 31,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Grid space stroke",
+                "updated_at": "2021-08-16 12:32:55"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 16,
+                "name": "Space",
+                "blocktype_id": 5,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 1,
+                "fill_part_id": 8,
+                "stroke_part_id": 31,
+                "inner_part_id": null,
+                "create_group": 1,
+                "create_group_order": 1,
+                "target_block_id": null,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:46:41"
+            }
+        ]
+    },
+    {
+        "part_id": 32,
+        "name": "ArrowTileStroke",
+        "application": "Edge of Arrow Tile",
+        "alpha": 1,
+        "updated_at": "2021-01-04 18:32:30",
+        "palette_parts": [
+            {
+                "part_id": 32,
+                "palette_id": 2,
+                "colour_id": 14,
+                "note": "Arrow tile stroke",
+                "updated_at": "2021-08-16 12:34:08"
+            },
+            {
+                "part_id": 32,
+                "palette_id": 18,
+                "colour_id": 38,
+                "note": "Arrow tile stroke",
+                "updated_at": "2021-08-16 12:34:08"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": [
+            {
+                "block_id": 8,
+                "name": "ArrowDown",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 1,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 12,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 1,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:46"
+            },
+            {
+                "block_id": 9,
+                "name": "ArrowUp",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 10,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 3,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:54:47"
+            },
+            {
+                "block_id": 10,
+                "name": "ArrowRight",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 11,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 4,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:59"
+            },
+            {
+                "block_id": 11,
+                "name": "ArrowLeft",
+                "blocktype_id": 4,
+                "connectable": 0,
+                "targetable": 0,
+                "shuffleable": 0,
+                "spawnable": 0,
+                "display_order": 13,
+                "fill_part_id": 9,
+                "stroke_part_id": 32,
+                "inner_part_id": 10,
+                "create_group": 3,
+                "create_group_order": 2,
+                "target_block_id": 8,
+                "live": 1,
+                "note": "",
+                "updated_at": "2023-08-25 13:53:34"
+            }
+        ]
+    },
+    {
+        "part_id": 33,
+        "name": "RotateTileFill",
+        "application": "Rotate tile fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 19:13:18",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 34,
+        "name": "RotateTileArrow",
+        "application": "Rotate tile arrow",
+        "alpha": 1,
+        "updated_at": "2021-01-06 19:13:18",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 35,
+        "name": "PopupFill",
+        "application": "Popup background fill",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:07:48",
+        "palette_parts": [
+            {
+                "part_id": 35,
+                "palette_id": 18,
+                "colour_id": 30,
+                "note": "Popup background",
+                "updated_at": "2021-04-09 16:00:23"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 36,
+        "name": "HeaderText",
+        "application": "Header text",
+        "alpha": 1,
+        "updated_at": "2021-04-09 16:12:16",
+        "palette_parts": [
+            {
+                "part_id": 36,
+                "palette_id": 18,
+                "colour_id": 34,
+                "note": "Header text",
+                "updated_at": "2021-04-09 16:13:00"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 37,
+        "name": "PopupStroke",
+        "application": "Popup boarder",
+        "alpha": 0.94,
+        "updated_at": "2021-07-24 15:35:27",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 38,
+        "name": "PlayGridSettingsPopupExitButton",
+        "application": "Play grid scene Settings Popup Exit button fill and stroke",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 39,
+        "name": "PlayGridSettingsPopupResetButton",
+        "application": "Play grid scene Settings Popup reset grid button fill and stroke",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 40,
+        "name": "PlayGridSettingsPopupContinueButton",
+        "application": "Play grid scene Settings Popup continue playing grid button fill and stroke",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 41,
+        "name": "PopupUnderlay",
+        "application": "Popup underlay background",
+        "alpha": 0.3,
+        "updated_at": "2021-07-24 16:15:02",
+        "palette_parts": [
+            {
+                "part_id": 41,
+                "palette_id": 18,
+                "colour_id": 1,
+                "note": "Popup underlay",
+                "updated_at": "2021-07-24 15:45:18"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 42,
+        "name": "CreateGridSpawnPopupSliderStepInactive",
+        "application": "Create grid scene Spawn Popup slider step up button inactive state",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [
+            {
+                "part_id": 42,
+                "palette_id": 18,
+                "colour_id": 102,
+                "note": "Create grid spawn popup slider step inactive",
+                "updated_at": "2021-08-16 12:30:34"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 43,
+        "name": "CreateGridSpawnPopupSliderStepActive",
+        "application": "Create grid scene Spawn Popup slider step up button active state",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [
+            {
+                "part_id": 43,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Create grid spawn popup slider step active",
+                "updated_at": "2021-08-16 12:30:59"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 44,
+        "name": "PopupHeadingText",
+        "application": "Popup heading text",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:22:22",
+        "palette_parts": [
+            {
+                "part_id": 44,
+                "palette_id": 18,
+                "colour_id": 104,
+                "note": "Popup heading text",
+                "updated_at": "2021-08-16 12:31:33"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 45,
+        "name": "ButtonStroke",
+        "application": "Button stroke",
+        "alpha": 1,
+        "updated_at": "2021-07-03 15:17:10",
+        "palette_parts": [
+            {
+                "part_id": 45,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Button Stroke",
+                "updated_at": "2021-07-03 15:18:41"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 46,
+        "name": "ButtonFill",
+        "application": "Button fill",
+        "alpha": 1,
+        "updated_at": "2021-07-03 15:17:10",
+        "palette_parts": [
+            {
+                "part_id": 46,
+                "palette_id": 18,
+                "colour_id": 103,
+                "note": "Button Fill",
+                "updated_at": "2021-07-03 15:18:41"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 47,
+        "name": "RandomTileFill",
+        "application": "Random Tile Fill",
+        "alpha": 1,
+        "updated_at": "2021-01-06 20:54:34",
+        "palette_parts": [
+            {
+                "part_id": 47,
+                "palette_id": 18,
+                "colour_id": 102,
+                "note": "Random tile fill",
+                "updated_at": "2021-07-05 23:53:04"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 48,
+        "name": "CreateGridRibbonStroke",
+        "application": "Create grid scene ribbon stroke",
+        "alpha": 1,
+        "updated_at": "2021-04-21 21:12:32",
+        "palette_parts": [
+            {
+                "part_id": 48,
+                "palette_id": 18,
+                "colour_id": 33,
+                "note": "Create Grid Ribbon Stroke",
+                "updated_at": "2021-08-15 16:19:47"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 49,
+        "name": "CreateGridSpawnPopupSliderBarMax",
+        "application": "Create grid spawn popup slider bar max",
+        "alpha": 1,
+        "updated_at": "2021-08-20 23:27:37",
+        "palette_parts": [
+            {
+                "part_id": 49,
+                "palette_id": 18,
+                "colour_id": 32,
+                "note": "Create grid spawn popup slider bar max value",
+                "updated_at": "2021-08-26 14:08:44"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    },
+    {
+        "part_id": 50,
+        "name": "CreateGridSpawnPopupSliderBarHeadroom",
+        "application": "Create grid spawn popup slider bar headroom",
+        "alpha": 1,
+        "updated_at": "2021-08-14 13:49:07",
+        "palette_parts": [
+            {
+                "part_id": 50,
+                "palette_id": 18,
+                "colour_id": 117,
+                "note": "Create grid spawn popup slider bar headroom",
+                "updated_at": "2021-08-26 14:08:44"
+            }
+        ],
+        "block_fill_parts": [],
+        "block_inner_parts": [],
+        "block_stroke_parts": []
+    }
+]

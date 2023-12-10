@@ -1,0 +1,46 @@
+[
+    {
+        "user_id": 4,
+        "palette_id": 1,
+        "updated_at": "2021-01-03 00:59:02",
+        "user": {
+            "user_id": 4,
+            "name": "Phil",
+            "gender": "Male",
+            "dob": "1961-10-13",
+            "xp": 0,
+            "start_palette_id": 3,
+            "active_effects": null,
+            "inventory": null,
+            "updated_at": "2023-09-11 13:25:32"
+        },
+        "palette": {
+            "palette_id": 1,
+            "name": "Beads",
+            "note": "p286, (Found colour palette 8) 2000 Colour Combinations.",
+            "updated_at": "2020-08-15 01:29:28"
+        }
+    },
+    {
+        "user_id": 4,
+        "palette_id": 3,
+        "updated_at": "2021-01-03 00:59:41",
+        "user": {
+            "user_id": 4,
+            "name": "Phil",
+            "gender": "Male",
+            "dob": "1961-10-13",
+            "xp": 0,
+            "start_palette_id": 3,
+            "active_effects": null,
+            "inventory": null,
+            "updated_at": "2023-09-11 13:25:32"
+        },
+        "palette": {
+            "palette_id": 3,
+            "name": "Found 6",
+            "note": "p282 (Found colour palette 6) 2000 Colour Combinations",
+            "updated_at": "2021-01-02 22:48:48"
+        }
+    }
+]

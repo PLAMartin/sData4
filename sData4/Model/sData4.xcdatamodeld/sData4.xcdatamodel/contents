@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23A344" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Block" representedClassName=".Block" syncable="YES">
+        <attribute name="blockId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="blocktypeId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="connectable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="createGroup" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="createGroupOrder" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="displayOrder" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="fillPartId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="innerPartId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="live" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="shuffleable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="spawnable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="strokePartId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="targetable" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="targetBlockId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="blocktype" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Blocktype" inverseName="blocks" inverseEntity="Blocktype"/>
+        <relationship name="fillPart" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Part" inverseName="blockFillParts" inverseEntity="Part"/>
+        <relationship name="innerPart" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Part" inverseName="blockInnerParts" inverseEntity="Part"/>
+        <relationship name="setups" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Setup" inverseName="block" inverseEntity="Setup"/>
+        <relationship name="spawns" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Spawn" inverseName="block" inverseEntity="Spawn"/>
+        <relationship name="strokePart" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Part" inverseName="blockStrokeParts" inverseEntity="Part"/>
+        <relationship name="targetBlock" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Block" inverseName="targetBlock" inverseEntity="Block"/>
+        <relationship name="targets" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Target" inverseName="block" inverseEntity="Target"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="blockId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Blocktype" representedClassName=".Blocktype" syncable="YES">
+        <attribute name="blocktypeId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="blocks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Block" inverseName="blocktype" inverseEntity="Block"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="blocktypeId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Box" representedClassName=".Box" syncable="YES">
+        <attribute name="episodeId" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="gridId" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seriesId" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="variantId" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="episode" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Episode" inverseName="boxes" inverseEntity="Episode"/>
+        <relationship name="grid" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Grid" inverseName="boxes" inverseEntity="Grid"/>
+        <relationship name="series" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Series" inverseName="boxes" inverseEntity="Series"/>
+        <relationship name="variant" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Variant" inverseName="boxes" inverseEntity="Variant"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="episodeId"/>
+                <constraint value="seriesId"/>
+                <constraint value="variantId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Candy" representedClassName="Candy" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <relationship name="origin" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Country" inverseName="candy" inverseEntity="Country"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="name"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Colour" representedClassName=".Colour" syncable="YES">
+        <attribute name="alpha" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="blue" attributeType="Integer 32" minValueString="0" maxValueString="255" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="colourId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="green" attributeType="Integer 32" minValueString="0" maxValueString="255" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="red" attributeType="Integer 32" minValueString="0" maxValueString="255" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="paletteParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Colour" inverseName="paletteParts" inverseEntity="Colour"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="colourId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Country" representedClassName="Country" syncable="YES">
+        <attribute name="fullName" optional="YES" attributeType="String"/>
+        <attribute name="shortName" optional="YES" attributeType="String"/>
+        <relationship name="candy" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Candy" inverseName="origin" inverseEntity="Candy"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="shortName"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Episode" representedClassName=".Episode" syncable="YES">
+        <attribute name="episodeId" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="number" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="boxes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Box" inverseName="episode" inverseEntity="Box"/>
+        <relationship name="seriesEpisodes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SeriesEpisode" inverseName="episode" inverseEntity="SeriesEpisode"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="episodeId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Grid" representedClassName=".Grid" syncable="YES">
+        <attribute name="completedCount" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="creatorUserId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="gridId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="loadCount" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="paletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="playCount" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seedId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tutorialId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="boxes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Box" inverseName="grid" inverseEntity="Box"/>
+        <relationship name="creatorUser" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="grids" inverseEntity="User"/>
+        <relationship name="palette" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Palette" inverseName="grids" inverseEntity="Palette"/>
+        <relationship name="seed" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Seed" inverseName="grids" inverseEntity="Seed"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="gridId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Palette" representedClassName=".Palette" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="paletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="grids" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Grid" inverseName="palette" inverseEntity="Grid"/>
+        <relationship name="paletteParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="PalettePart" inverseName="palette" inverseEntity="PalettePart"/>
+        <relationship name="series" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Series" inverseName="palette" inverseEntity="Series"/>
+        <relationship name="userPalettes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="UserPalette" inverseName="palette" inverseEntity="UserPalette"/>
+        <relationship name="users" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="User" inverseName="startPalette" inverseEntity="User"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="paletteId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="PalettePart" representedClassName=".PalettePart" syncable="YES">
+        <attribute name="colourId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="paletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="partId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="colour" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PalettePart" inverseName="colour" inverseEntity="PalettePart"/>
+        <relationship name="palette" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Palette" inverseName="paletteParts" inverseEntity="Palette"/>
+        <relationship name="part" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Part" inverseName="paletteParts" inverseEntity="Part"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="paletteId"/>
+                <constraint value="partId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Part" representedClassName=".Part" syncable="YES">
+        <attribute name="alpha" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="application" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="partId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="blockFillParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Block" inverseName="fillPart" inverseEntity="Block"/>
+        <relationship name="blockInnerParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Block" inverseName="innerPart" inverseEntity="Block"/>
+        <relationship name="blockStrokeParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Block" inverseName="strokePart" inverseEntity="Block"/>
+        <relationship name="paletteParts" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="PalettePart" inverseName="part" inverseEntity="PalettePart"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="partId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Seed" representedClassName=".Seed" syncable="YES">
+        <attribute name="cols" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="movesAllowed" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="note" optional="YES" attributeType="String"/>
+        <attribute name="rows" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="secsAllowed" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seedId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="grids" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Grid" inverseName="seed" inverseEntity="Grid"/>
+        <relationship name="setups" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Setup" inverseName="seed" inverseEntity="Setup"/>
+        <relationship name="spawns" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Spawn" inverseName="seed" inverseEntity="Spawn"/>
+        <relationship name="targets" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Target" inverseName="seed" inverseEntity="Target"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seedId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Series" representedClassName=".Series" syncable="YES">
+        <attribute name="number" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="paletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seriesId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="boxes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Box" inverseName="series" inverseEntity="Box"/>
+        <relationship name="palette" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Palette" inverseName="series" inverseEntity="Palette"/>
+        <relationship name="seriesEpisodes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SeriesEpisode" inverseName="series" inverseEntity="SeriesEpisode"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seriesId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="SeriesEpisode" representedClassName=".SeriesEpisode" syncable="YES">
+        <attribute name="episodeId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="pathDeltaY" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="pathX" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seriesId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="episode" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Episode" inverseName="seriesEpisodes" inverseEntity="Episode"/>
+        <relationship name="series" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Series" inverseName="seriesEpisodes" inverseEntity="Series"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seriesId"/>
+                <constraint value="episodeId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Setup" representedClassName=".Setup" syncable="YES">
+        <attribute name="blockId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="col" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="row" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seedId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="block" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Block" inverseName="setups" inverseEntity="Block"/>
+        <relationship name="seed" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Seed" inverseName="setups" inverseEntity="Seed"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seedId"/>
+                <constraint value="row"/>
+                <constraint value="col"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Spawn" representedClassName=".Spawn" syncable="YES">
+        <attribute name="blockId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="probability" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seedId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="block" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Block" inverseName="spawns" inverseEntity="Block"/>
+        <relationship name="seed" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Seed" inverseName="spawns" inverseEntity="Seed"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seedId"/>
+                <constraint value="blockId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Target" representedClassName=".Target" syncable="YES">
+        <attribute name="blockId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="displayOrder" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="seedId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="target" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="block" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Block" inverseName="targets" inverseEntity="Block"/>
+        <relationship name="seed" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Seed" inverseName="targets" inverseEntity="Seed"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="seedId"/>
+                <constraint value="blockId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="User" representedClassName=".User" syncable="YES">
+        <attribute name="activeEffects" optional="YES" attributeType="String"/>
+        <attribute name="dob" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="gender" optional="YES" attributeType="String"/>
+        <attribute name="inventory" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="startPaletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="xp" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="grids" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Grid" inverseName="creatorUser" inverseEntity="Grid"/>
+        <relationship name="startPalette" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Palette" inverseName="users" inverseEntity="Palette"/>
+        <relationship name="userPalettes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="UserPalette" inverseName="user" inverseEntity="UserPalette"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="userId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="UserPalette" representedClassName=".UserPalette" syncable="YES">
+        <attribute name="paletteId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="palette" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Palette" inverseName="userPalettes" inverseEntity="Palette"/>
+        <relationship name="user" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="userPalettes" inverseEntity="User"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="userId"/>
+                <constraint value="paletteId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="Variant" representedClassName=".Variant" syncable="YES">
+        <attribute name="displayOrder" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="secsPerLife" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="variantId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="boxes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Box" inverseName="variant" inverseEntity="Box"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="variantId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+</model>
