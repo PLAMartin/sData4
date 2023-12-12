@@ -8,13 +8,13 @@ Data tables include:
 - Blocktype: Each block has a blocktype. The blocktypes are: Colour, Space, Black, White, Arrow, Rotate and Random.
 - Box: A box relates to a Series, Episode and Variant, in that hierarchical order. A box can and usually does have a grid (max 8 x 8 cells) in it.
 - Colour: A colour is defined according to the RGB colour model, i.e. additive Red, Green and Blue components. Each RGB colour component is a value between 0 and 255. Additionally, the opacity is defined, expressed as a decimal value between 0 and 1.
-- Episode:
+- Episode: Each episode has a sequential integer value of 1 or more. Each episode is associated with a series and has variants associated with it.
 - Grid:
 - Palette:
 - PalettePart:
 - Part:
 - Seed:
-- Series:
+- Series: Each series has a sequential integer value of 1 or more.
 - SeriesEpisode:
 - Setup:
 - Spawn:
