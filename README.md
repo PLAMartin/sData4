@@ -19,8 +19,8 @@ Data tables include:
 - Setup: In the setup phase of a grid (based on a seed) defines which the block starts in each grid cell.
 - Spawn:
 - Target:
-- User:
-- UserPalette:
+- User: A player of Scarper. May also create grids for others to play.
+- UserPalette: Identifies which colour palettes a user can apply to grids they play and/or create.
 - Variant:
 
 Phil Martin
