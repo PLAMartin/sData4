@@ -10,7 +10,7 @@ Data tables include:
 - Colour: A colour is defined according to the RGB colour model, i.e. additive Red, Green and Blue components. Each RGB colour component is a value between 0 and 255. Additionally, the opacity is defined, expressed as a decimal value between 0 and 1.
 - Episode: Each episode has a sequential integer value of 1 or more. Each episode is associated with a series and has variants associated with it.
 - Grid: 
-- Palette: A set of colours which should work well together.
+- Palette: A set of colours which are chosen to work well together, e.g. the colour blocks in a grid.
 - PalettePart:
 - Part:
 - Seed:
