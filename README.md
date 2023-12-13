@@ -12,7 +12,7 @@ Data tables include:
 - Grid: 
 - Palette: A set of colours which are chosen to work well together, e.g. the colour blocks in a grid.
 - PalettePart: Defines which colour is associated with a part (visual component) in a given a palette, e.g. the colour of a "Colour 1" block in the "Beads" palette.
-- Part:
+- Part: A visual component of a Scarper scene which has form and colour, e.g. a block.
 - Seed:
 - Series: Each series has a sequential integer value of 1 or more.
 - SeriesEpisode:
