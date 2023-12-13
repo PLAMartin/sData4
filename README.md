@@ -2,7 +2,7 @@
 
 App to help review data in Core Data supporting Scarper app. A description of Scarper can be found at https://www.playscarper.com/support/
 
-Data tables include:
+Scarper data tables include:
 
 - Block: Playable grids (max 8 x 8 cells) are comprised of blocks. Blocks are: Colour 1, Colour 2, Colour 3, Colour 4, Colour 5, Space, Black, White, ArrowUp, ArrowDown, ArrowLeft, ArrowRight, Rotate90Clockwise, Rotate90AntiClockwise and Rotate180 and Random.
 - Blocktype: Each block is a blocktype. The blocktypes are: Colour, Space, Black, White, Arrow, Rotate and Random.
