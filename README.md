@@ -11,7 +11,7 @@ Data tables include:
 - Episode: Each episode has a sequential integer value of 1 or more. Each episode is associated with a series and has variants associated with it.
 - Grid: 
 - Palette: A set of colours which are chosen to work well together, e.g. the colour blocks in a grid.
-- PalettePart:
+- PalettePart: Defines which colour is associated with a part (visual component) in a given a palette, e.g. the colour of a "Colour 1" block in the "Beads" palette.
 - Part:
 - Seed:
 - Series: Each series has a sequential integer value of 1 or more.
