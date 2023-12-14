@@ -17,10 +17,10 @@ Scarper data tables include:
 - Series: Each series has a sequential integer value of 1 or more.
 - SeriesEpisode:
 - Setup: In the setup phase of a grid (based on a seed) defines which the block starts in each grid cell.
-- Spawn:
+- Spawn: A grid (based on a seed) has certain blocktypes which respawn with a given probability. The spawn rate (probability) is defined here, e.g. "Colour 1" block has a spawn probability of 25%.
 - Target:
 - User: A player of Scarper. May also create grids for others to play.
 - UserPalette: Identifies which colour palettes a user can apply to grids they play and/or create.
-- Variant:
+- Variant: 
 
 Phil Martin
