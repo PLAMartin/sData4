@@ -1,6 +1,6 @@
 # sData4
 
-App to help review data in Core Data supporting Scarper app. A description of Scarper can be found at https://www.playscarper.com/support/
+App to help review data in Core Data supporting the Scarper app. A description of Scarper can be found at https://www.playscarper.com/support/
 
 Scarper data tables include:
 
