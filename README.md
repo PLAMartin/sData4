@@ -21,6 +21,6 @@ Scarper data tables include:
 - Target: Number of each block required to successfully play a grid to completion, e.g. 10 "Colour 1" and 15 "Colour 3" blocks.
 - User: A player of Scarper. May also create grids for others to play.
 - UserPalette: Identifies which colour palettes a user can apply to grids they play and/or create.
-- Variant: Playable grids sit within a Series and Episode then have Base and Challenge variants.
+- Variant: Playable grids sit within a series and episode then have "Base" and "Challenge" variants.
 
 Phil Martin
