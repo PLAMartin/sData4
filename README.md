@@ -15,7 +15,7 @@ Scarper data tables include:
 - Part: A visual component of a Scarper scene which has form and colour, e.g. a block.
 - Seed: A seed (for a grid) is akin to a fingerprint. The seed has the following associated with it: 1. Number of rows and columns in a grid, 2. Target (Number of each block required to successfully play a grid to completion), 3. Setup (Grid starting layout of blocks), 4. Spawn (During play blocks are removed. The respawn rates for replacement blocks are expressed as probabilities.) and 5. Moves allowed.
 - Series: Each series has a sequential integer value of 1 or more.
-- SeriesEpisode:
+- SeriesEpisode: Horizontal and vertical positioning of nodes on a screen (relating to an Episode in a Series) that enables users to select a grid play.
 - Setup: In the setup phase of a grid (based on a seed) defines which the block starts in each grid cell.
 - Spawn: A grid (based on a seed) has certain blocktypes which respawn with a given probability. The spawn rate (probability) is defined here, e.g. "Colour 1" block has a spawn probability of 25%.
 - Target: Number of each block required to successfully play a grid to completion, e.g. 10 "Colour 1" and 15 "Colour 3" blocks.
